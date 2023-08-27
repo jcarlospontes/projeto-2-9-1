@@ -1,6 +1,5 @@
 #!/bin/bash
 
-## script encontrado no repositorio https://github.com/jcarlospontes/projeto-2-9-1
 echo "Atualizando Servidor"
 echo " "
 sudo apt update -y && apt upgrade -y
