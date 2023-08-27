@@ -20,7 +20,7 @@ echo " "
 echo " "
 echo "Baixando a aplicacao do git e extraindo para /tmp"
 echo " "
-sudo sudo wget -O /tmp/main.zip https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip && unzip /tmp/main.zip
+sudo sudo wget -O /tmp/main.zip https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip && unzip /tmp/main.zip -d /tmp/
 echo " "
 
 echo " "
